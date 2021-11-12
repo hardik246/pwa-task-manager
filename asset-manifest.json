@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pwa-task-manager/static/css/main.ffabc8b1.chunk.css",
+    "main.js": "/pwa-task-manager/static/js/main.3fb70a52.chunk.js",
+    "main.js.map": "/pwa-task-manager/static/js/main.3fb70a52.chunk.js.map",
+    "runtime-main.js": "/pwa-task-manager/static/js/runtime-main.823eedb1.js",
+    "runtime-main.js.map": "/pwa-task-manager/static/js/runtime-main.823eedb1.js.map",
+    "static/js/2.1670caf2.chunk.js": "/pwa-task-manager/static/js/2.1670caf2.chunk.js",
+    "static/js/2.1670caf2.chunk.js.map": "/pwa-task-manager/static/js/2.1670caf2.chunk.js.map",
+    "index.html": "/pwa-task-manager/index.html",
+    "static/css/main.ffabc8b1.chunk.css.map": "/pwa-task-manager/static/css/main.ffabc8b1.chunk.css.map",
+    "static/js/2.1670caf2.chunk.js.LICENSE.txt": "/pwa-task-manager/static/js/2.1670caf2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.823eedb1.js",
+    "static/js/2.1670caf2.chunk.js",
+    "static/css/main.ffabc8b1.chunk.css",
+    "static/js/main.3fb70a52.chunk.js"
+  ]
+}
